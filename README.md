@@ -1,0 +1,1 @@
+This is a task management system implemented in C++ using Object-Oriented Programming (OOP) principles. It provides efficient task management capabilities with features such as data validation, sorting algorithms for task organization, and persistent data storage using file handling.
